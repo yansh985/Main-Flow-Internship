@@ -7,6 +7,7 @@ Welcome to my repository for the Data Science Internship! This repository will c
 2. For task 3 I've used "Household_Task3.xlsx"
 3. For task 4 I've used "US_videos_Task4.xlsx"
 4. For task 5 I've used "heart.xlsx"
+5. For task 6 I've used "IPL_2023_Dataset.xlsx"
 
 ## Contributing
 I welcome contributions and suggestions to improve this repository. If you have any ideas or find any issues, please open an issue or submit a pull request.
@@ -17,4 +18,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 
 ## Contact
-If you have any questions or want to connect, feel free to reach out to me on LinkedIn or via email.
+If you have any questions or would like to connect, please feel free to contact me on LinkedIn or via email.
