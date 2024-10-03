@@ -19,4 +19,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 
 ## Contact
-If you have any questions or would like to connect, please feel free to contact me on LinkedIn or via email.
+For any questions or suggestions, please contact:
+- **Name:** Ansh Yadav
+- **Email:** yansh985@gmail.com
+
+Feel free to adjust the contact email and any other details as needed.
